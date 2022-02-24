@@ -1,0 +1,39 @@
+{
+"userId":"40518367_12357273_138357",
+"surveyId":"defaultSurvey",
+"surveyType":"USER",
+"payload":[{"locale":"en_CA","questionId":"Q1",
+			"response":["Grocery/Convenience Store"],
+			"text":"Which of these best describes your facility?"},
+		
+		{"locale":"en_CA","questionId":"Q3",
+			 "response":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+			 "text":"What are your typical operating hours?"},
+			 
+		{"locale":"en_CA","questionId":"Q4",
+			"response":["100+"],
+			"text":"On average, how many people - staff, customers, visitors - occupy your facility on a working day?"},
+		
+		{"locale":"en_CA","questionId":"Q5",
+			"response":["2400.0"],
+			"text":"What is the size of your facility in square feet?"},
+		
+		{"locale":"en_CA","questionId":"Q6",
+			"response":["Heat Pump"],
+			"text":"What kind of cooling appliances do you have?"},
+		
+		{"locale":"en_CA","questionId":"Q7",
+			"response":["Heat Pump"],
+			"text":"What kind of heating appliances do you have?"},
+		
+		{"locale":"en_CA","questionId":"Q8",
+			"response":["Computer (Desktop)","Computer (Laptop)","Printer"],
+			"text":"What appliances run throughout operating hours?"},
+			
+		{"locale":"en_CA","questionId":"Q9",
+			"response":["Computer (Desktop)","Computer (Laptop)","Printer"],
+			"text":"What appliances run throughout non-operating hours?"}],
+			
+"surveyLastUpdateTimestamp":"2021-12-03 04:27:50",
+"surveyLastUpdateEpoch":"1638505670487"
+}

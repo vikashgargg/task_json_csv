@@ -1,0 +1,9 @@
+,userId,surveyId,surveyType,surveyLastUpdateTimestamp,surveyLastUpdateEpoch,payload.locale,payload.questionId,payload.response,payload.text
+0,40518367_12357273_138357,defaultSurvey,USER,2021-12-03 04:27:50,1638505670487,en_CA,Q1,['Grocery/Convenience Store'],Which of these best describes your facility?
+1,40518367_12357273_138357,defaultSurvey,USER,2021-12-03 04:27:50,1638505670487,en_CA,Q3,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']",What are your typical operating hours?
+2,40518367_12357273_138357,defaultSurvey,USER,2021-12-03 04:27:50,1638505670487,en_CA,Q4,['100+'],"On average, how many people - staff, customers, visitors - occupy your facility on a working day?"
+3,40518367_12357273_138357,defaultSurvey,USER,2021-12-03 04:27:50,1638505670487,en_CA,Q5,['2400.0'],What is the size of your facility in square feet?
+4,40518367_12357273_138357,defaultSurvey,USER,2021-12-03 04:27:50,1638505670487,en_CA,Q6,['Heat Pump'],What kind of cooling appliances do you have?
+5,40518367_12357273_138357,defaultSurvey,USER,2021-12-03 04:27:50,1638505670487,en_CA,Q7,['Heat Pump'],What kind of heating appliances do you have?
+6,40518367_12357273_138357,defaultSurvey,USER,2021-12-03 04:27:50,1638505670487,en_CA,Q8,"['Computer (Desktop)', 'Computer (Laptop)', 'Printer']",What appliances run throughout operating hours?
+7,40518367_12357273_138357,defaultSurvey,USER,2021-12-03 04:27:50,1638505670487,en_CA,Q9,"['Computer (Desktop)', 'Computer (Laptop)', 'Printer']",What appliances run throughout non-operating hours?
